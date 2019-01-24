@@ -1,7 +1,35 @@
 {
   "name": "sequelize-query-composer",
-  "version": "1.0.0",
+  "version": "0.0.1",
+  "description": "Package for creating Sequelize query paramaters from url query.",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vivify-Ideas/sequelize-query-composer"
+  },
+  "keywords": [
+    "sequelize",
+    "query-composer"
+  ],
+  "author": {
+    "name": "Milos Miljanic"
+  },
+  "readme": "# Sequelize Query Composer",
+  "readmeFilename": "README.md",
   "dependencies": {
     "lodash": "^4.17.11"
-  }
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/Vivify-Ideas/sequelize-query-composer/issues"
+  },
+  "homepage": "https://github.com/Vivify-Ideas/sequelize-query-composer",
+  "_id": "sequelize-query-composer@0.0.1",
+  "scripts": {},
+  "_shasum": "db9a913c2f8893d477472647917493f2c0949adb",
+  "_from": "nodecalc@"
 }

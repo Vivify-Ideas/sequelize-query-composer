@@ -1,1 +1,1 @@
-# sequelize-query-composer
+# Sequelize Query Composer
