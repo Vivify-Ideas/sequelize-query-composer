@@ -1,6 +1,6 @@
 {
   "name": "sequelize-query-composer",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Package for creating Sequelize query paramaters from url query.",
   "main": "./index.js",
   "repository": {
